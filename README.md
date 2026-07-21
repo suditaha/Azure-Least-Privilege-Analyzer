@@ -73,6 +73,8 @@ The architecture relies on a Python-based deep RBAC analyzer and a Bash-driven A
 4. **Data Transformation:** A Python parser flattens the nested JSON structures returned by Azure into tabular formats.
 5. **Evidence Archival:** Timestamped JSON and CSV evidence is saved into the `grc-evidence/` directory, organized by domain.
 
+<img width="1316" height="919" alt="image" src="https://github.com/user-attachments/assets/337d641e-4367-4cd2-958e-ef7caa66dff7" />
+
 ---
 
 ## 🔒 Security
