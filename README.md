@@ -1,5 +1,8 @@
 # 🛡️ Azure Least Privilege Analyzer
 
+<img width="652" height="142" alt="Screenshot 2026-07-20 at 9 47 36 PM" src="https://github.com/user-attachments/assets/149e456b-6aca-41b5-a0e5-1b3966638722" />
+
+
 A CLI tool that audits Azure role assignments across subscriptions and resource groups to identify over-provisioned identities — flagging excessive permissions like Owner or Contributor assigned where Reader would suffice — and produces audit-ready evidence for SOC 2 (CC6.3) and NIST 800-53 (AC-6) compliance.
 
 ---
